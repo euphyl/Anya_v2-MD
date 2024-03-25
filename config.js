@@ -105,19 +105,19 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.botname = process.env.BotName || "Euphyx" 
+global.author = process.env.Author || "@serein" 
+global.packname = process.env.PackName || "bleany da goat" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
-global.prefa = process.env.Prefix || ['-'] 
+global.footer = process.env.Footer || "© Euphyx" 
+global.prefa = process.env.Prefix || ['.'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
+global.ownername = process.env.Owner_Name || "Serein" 
+global.ownernumber = process.env.Owner_Number || "60149881595" 
+global.adress = process.env.Continent || "Asia, Malaysia, Sabah" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
-global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.instagramId = process.env.Insta || "https://www.instagram.com/xeadj_?igsh=Y2QxN2VtaWlxdzM0" 
+global.email = process.env.Email_Id || "clovisxlell@gmail.com" 
   
 //--------------- Tip ----------------\\
 global.Tips = [
