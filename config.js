@@ -63,16 +63,16 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  botname: process.env.BotName || "Euphyx", 
+  author: process.env.Author || "@euphyx",
+  packname: process.env.PackName || "#bleany da goat",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
-  prefa: process.env.Prefix || ['-'],
+  footer: process.env.Footer || "© Euphyx cooking🔥🔥",
+  prefa: process.env.Prefix || ['.'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
-  instagramId: process.env.Insta || "8.08_only_mine",
+  ownername: process.env.Owner_Name || "Serein",
+  ownernumber: process.env.Owner_Number || "60149881595",
+  instagramId: process.env.Insta || "https://www.instagram.com/xeadj_?igsh=Y2QxN2VtaWlxdzM0",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
@@ -130,5 +130,5 @@ global.Tips = [
 global.image_1 = readFileSync('./lib/Assets/image_1.jpg') // Thumbnail for allmenu command
 global.image_2 = readFileSync('./lib/Assets/image_2.jpg') // null image
 global.image_3 = readFileSync("./lib/Assets/image_3.jpg") // Thumbnail for Dashboard
-global.menu_pic = "https://i.ibb.co/PhDcZTM/Thumbnail.png";
+global.menu_pic = "https://telegra.ph/file/04bbbd155ad23bb834be0.jpg";
 
